@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3085d2&height=120&section=header"/>
 
-<div align="center"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Yukine-Endo&show_icons=true&theme=tokyonight"/><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukine-Endo&layout=compact&theme=tokyonight"/></div>
+<div align="center"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nukenin-Endo&show_icons=true&theme=tokyonight"/><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nukenin-Endo&layout=compact&theme=tokyonight"/></div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=3085d2&center=true&width=1050&height=100&lines=Hi!;I'm+Fiadh%2C+akka+Nukenin;I'm+23+years+old.+;Living+around+the+world.)
 
@@ -12,6 +12,6 @@
 ### Projects:
 [The Black Lotus Association](https://theblacklotus.fr/)
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Yukine-Endo&color=3085d2&style=flat"><br></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Nukenin-Endo&color=3085d2&style=flat"><br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3085d2&height=120&section=footer"/>
