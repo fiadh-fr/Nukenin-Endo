@@ -2,7 +2,7 @@
 
 <div align="center"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nukenin-Endo&show_icons=true&theme=tokyonight"/><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nukenin-Endo&layout=compact&theme=tokyonight"/></div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=3085d2&center=true&width=1050&height=100&lines=Hi!;I'm+Fiadh%2C+akka+Nukenin;I'm+23+years+old.+;Living+around+the+world.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=3085d2&center=true&width=1050&height=100&lines=Hi!;I'm+Fiadh%2C;I'm+2x+years+old.+;Living+around+the+world.)
 
 <div align="center"><a href="https://discord.gg/6be9yTmCph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@tanash1zada" height="65" width="65" /></a></div>
 
